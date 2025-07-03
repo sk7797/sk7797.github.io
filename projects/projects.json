@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Automated Vulnerability Assessment and Patching",
+    "desc": "Developed an automated vulnerability assessment and patching solution with Nessus, Splunk, and SOAR to improve security and compliance in enterprise cloud infrastructure.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Network Vulnerability Scanner",
+    "desc": " Created a custom scanning tool to identify open ports, outdated services, and known vulnerabilities in networks. Implemented multi-threading for efficiency and generated detailed reports. Used for testing lab environments and developing detection rules.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Penetration Testing Toolkit",
+    "desc": "Developed and customized Bash/Python scripts for common penetration testing tasks, including directory brute-forcing, credential spraying, and payload generation. Conducted lab-based simulations using Kali Linux and Metasploit Framework. Emphasized safe testing practices and documentation of findings.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Al-Powered Phishing Email Detection",
+    "desc": "Built a Streamlit-based application for offline phishing email analysis using rege and rule-based heuristics. Integrated user-friendly interface to scan .eml files or raw email content. Deployed publicly on Streamlit Cloud with Git-based version control.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://sk7797-ai-phishing-detector.streamlit.app/",
+      "code": "https://github.com/sk7797/ai-phishing-detector"
+    }
+  },
+  {
+    "name": "Fault-Tolerant Multi-Regional Web Application",
+    "desc": "Designed and deployed Azure-based architecture with load balancers, availability sets, and geo-routing. Applied secure network design principles (NSGs, firewall rules). Focused on ensuring availability and resilience for distributed users.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Personal Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sk7797/Portfolio-Website"
+    }
+  }
+]
